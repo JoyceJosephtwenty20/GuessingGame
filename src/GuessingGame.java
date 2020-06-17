@@ -1,4 +1,3 @@
-import sun.awt.windows.WPrinterJob;
 
 import java.util.Random;
 import java.util.Scanner;
